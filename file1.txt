@@ -1,0 +1,2 @@
+git remote add origin https://github.com/AshAlam727/My-First-Repository.git
+git push -u origin main
